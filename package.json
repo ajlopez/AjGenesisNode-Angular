@@ -1,5 +1,5 @@
 { "name": "ajgenesisnode-angular"
-, "description": "AjGenesis for Node, Entity tasks and templates"
+, "description": "AjGenesis for Node, Angular tasks and templates"
 , "keywords": [ "codegeneration", "nodejs", "ajgenesis" ]
 , "version": "0.0.1alpha"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
